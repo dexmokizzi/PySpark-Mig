@@ -1,3 +1,5 @@
+# This script helps to append data from a Local File Path (csv) to SSMS without overwriting. It appends based on an ID
+
 from pyspark.sql import SparkSession
 
 # Initialize a Spark session with explicit path configuration for the driver

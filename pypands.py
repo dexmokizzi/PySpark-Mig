@@ -1,3 +1,5 @@
+# This script helps with Data Migration from a Local File Path in (CSV) to SSMS using python (pandas and pyodbc)
+
 import pandas as pd
 import pyodbc
 

@@ -1,3 +1,5 @@
+# This scripts helps with Data Migration from a Local File Path in (CSV) to SSMS using Spark SQL
+
 from pyspark.sql import SparkSession
 
 # Initialize a Spark session with explicit path configuration for the driver

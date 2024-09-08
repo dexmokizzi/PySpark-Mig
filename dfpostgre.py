@@ -1,3 +1,5 @@
+# This script helps to migrate data from SSMS to Postgres using Spark SQL.
+
 from pyspark.sql import SparkSession
 
 # Initialize a Spark session

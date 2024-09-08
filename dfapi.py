@@ -1,3 +1,5 @@
+#This script helps with Data Migration from a Local File Path in (CSV) to SSMS using DataFrame APIs
+
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, when, lit
 
