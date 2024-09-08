@@ -42,7 +42,7 @@ postgres_properties = {
 # Write the result of the query to PostgreSQL
 df_orders.write.jdbc(url=postgres_url, table="public.orders", mode="overwrite", properties=postgres_properties)
 
-print("Data transferred successfully from SQL Server to PostgreSQL.")
+print("Data transferred successfully from SQL Server to PostgreSQL")
 
 # Stop the Spark session
 spark.stop()
