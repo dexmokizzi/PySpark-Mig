@@ -59,6 +59,5 @@ print("Data inserted successfully with overwrite mode.")
 spark.stop()
 
 
-# COMMAND TO RUN THIS: cd C:\Users\HP\Desktop\DAYTHREE\sparkScripts
-# spark-submit --driver-class-path "file:///C:/Users/HP/jdbc/mssql-jdbc-12.8.1.jre11.jar" --jars "file:///C:/Users/HP/jdbc/mssql-jdbc-12.8.1.jre11.jar" sparksql.py
+# COMMAND TO RUN THIS: cd C:\Users\HP\Desktop\Workspace\PySpark-Mig>
 # spark-submit sparksql.py

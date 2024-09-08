@@ -42,6 +42,6 @@ print("Data6 inserted successfully with NULLs where applicable.")
 spark.stop()
 
 # COMMAND TO RUN THIS:
-# cd C:\Users\HP\Desktop\DAYTHREE\sparkScritps
+# cd C:\Users\HP\Desktop\Workspace\PySpark-Mig>
 # spark-submit dfapi.py
 
